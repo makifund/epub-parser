@@ -1,5 +1,5 @@
 require 'strscan'
-require 'zipruby'
+require 'archive/zip'
 require 'nokogiri'
 require 'epub/publication'
 require 'epub/constants'

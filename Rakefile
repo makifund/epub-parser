@@ -4,7 +4,7 @@ require 'rake/testtask'
 require 'yard'
 require 'rdoc/task'
 require 'epub/parser/version'
-require 'zipruby'
+require 'archive/zip'
 
 CFI_TAB = 'lib/epub/parser/cfi.tab.rb'
 CFI_Y =  'lib/epub/parser/cfi.y'

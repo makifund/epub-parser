@@ -1,7 +1,7 @@
 require 'epub/constants'
 require 'epub/ocf'
 require 'epub/ocf/physical_container'
-require 'zipruby'
+require 'archive/zip'
 require 'nokogiri'
 
 module EPUB
